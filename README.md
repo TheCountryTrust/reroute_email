@@ -1,6 +1,6 @@
 # uk.countrytrust.reroute_email
 
-![Screenshot](/images/screenshot.png)
+<!-- ![Screenshot](/images/screenshot.png) -->
 
 This is a CiviCRM extension that does one simple thing - redirects ANY email from CiviCRM to an email address of your choice. Please note that this does not affect Drupal (or whatever CMS you use). I use the excellent Reroute Email module for Drupal to achieve that for any email sent from the CMS.
 
